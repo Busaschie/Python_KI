@@ -1,11 +1,16 @@
 # ==========================================
 # PyCharm & JetBrains IDEs
 # ==========================================
-Tag01/.idea/
+
 *.iml
 *.iws
+Tag01/.idea/
 Tag01/venv/
 Tag01/.env
+Tag02/.idea/
+Tag02/venv/
+Tag02/.env
+
 
 # ==========================================
 # Python (Bytecode, Cache, Environments)
